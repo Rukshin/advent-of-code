@@ -1,4 +1,4 @@
-package day01
+package main.kotlin.day01
 
 import kotlin.system.exitProcess
 
